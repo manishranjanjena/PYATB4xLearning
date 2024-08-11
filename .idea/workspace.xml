@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c51142d8-d7bc-4b0d-ae89-d27c4efa065f" name="Changes" comment="printing max number and keyword lists">
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab_002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab_002.py" afterDir="false" />
+    <list default="true" id="c51142d8-d7bc-4b0d-ae89-d27c4efa065f" name="Changes" comment="printing with separator and end">
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab_004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,21 +44,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab001.executor": "Run",
-    "Python.Lab_001.executor": "Run",
-    "Python.Lab_002.executor": "Run",
-    "Python.Lab_003.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Manish/PycharmProjects/PYATB4xLearning/src/ex_10082024",
-    "settings.editor.selected.configurable": "reference.idesettings.emmet"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_004.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Manish/PycharmProjects/PYATB4xLearning/src/ex_10082024&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": []
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: []
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Manish\PycharmProjects\PYATB4xLearning\src\ex_10082024" />
@@ -144,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723360096240</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="printing with separator and end">
+      <option name="closed" value="true" />
+      <created>1723360165122</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723360165122</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,8 +170,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="printing" />
-    <MESSAGE value="printing with separator and end" />
     <MESSAGE value="printing max number and keyword lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="printing max number and keyword lists" />
+    <MESSAGE value="printing with separator and end" />
+    <option name="LAST_COMMIT_MESSAGE" value="printing with separator and end" />
   </component>
 </project>
