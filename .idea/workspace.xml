@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c51142d8-d7bc-4b0d-ae89-d27c4efa065f" name="Changes" comment="Printing the text">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c51142d8-d7bc-4b0d-ae89-d27c4efa065f" name="Changes" comment="task with input and printing function (f&quot;{number}&quot;)">
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab_005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Lab_005.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
     "Python.Lab_005.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Manish/PycharmProjects/PYATB4xLearning/src/ex_10082024",
+    "last_opened_file_path": "C:/Users/Manish/PycharmProjects/PYATB4xLearning/src/ex_13082024",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
@@ -170,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723365246582</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="task with input and printing function (f&quot;{number}&quot;)">
+      <option name="closed" value="true" />
+      <created>1723522088524</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723522088524</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +198,7 @@
     <MESSAGE value="printing with separator and end" />
     <MESSAGE value="Data Types" />
     <MESSAGE value="Printing the text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Printing the text" />
+    <MESSAGE value="task with input and printing function (f&quot;{number}&quot;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="task with input and printing function (f&quot;{number}&quot;)" />
   </component>
 </project>
