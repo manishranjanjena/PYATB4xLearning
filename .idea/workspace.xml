@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c51142d8-d7bc-4b0d-ae89-d27c4efa065f" name="Changes" comment="task with input and printing function (f&quot;{number}&quot;)">
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab_005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Lab_005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +51,10 @@
     "Python.Lab_003.executor": "Run",
     "Python.Lab_004.executor": "Run",
     "Python.Lab_005.executor": "Run",
+    "Python.Lab_007.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Manish/PycharmProjects/PYATB4xLearning/src/ex_13082024",
+    "last_opened_file_path": "C:/Users/Manish/PycharmProjects/PYATB4xLearning/src/ex_20082024",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
@@ -62,6 +63,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Manish\PycharmProjects\PYATB4xLearning\src\ex_20082024" />
+      <recent name="C:\Users\Manish\PycharmProjects\PYATB4xLearning\src\ex_13082024" />
       <recent name="C:\Users\Manish\PycharmProjects\PYATB4xLearning\src\ex_10082024" />
       <recent name="C:\Users\Manish\PycharmProjects\PYATB4xLearning\src\ex_08082024" />
     </key>
@@ -178,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723522088524</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="task with input and printing function (f&quot;{number}&quot;)">
+      <option name="closed" value="true" />
+      <created>1723522232293</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723522232293</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
