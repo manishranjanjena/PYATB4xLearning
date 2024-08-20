@@ -33,13 +33,13 @@ equilateral (all sides are equal), isosceles (exactly two sides are equal), or s
 Use an if-else statement to classify the triangle.
 '''
 
-# sideA = float(input("Enter the side A in cm: \n"))
-# sideB = float(input("Enter the side B in cm: \n"))
-# sideC = float(input("Enter the side C in cm: \n"))
-#
-# if sideA == sideB == sideC:
-#     print("Triangle is called Equilateral.")
-# elif sideA == sideB or sideA == sideC or sideB == sideC:
-#     print("Triangle is called Isosceles.")
-# else:
-#     print("Triangle is called Scalene.")
+sideA = float(input("Enter the side A in cm: \n"))
+sideB = float(input("Enter the side B in cm: \n"))
+sideC = float(input("Enter the side C in cm: \n"))
+
+if sideA == sideB == sideC:
+    print("Triangle is called Equilateral.")
+elif sideA == sideB or sideA == sideC or sideB == sideC:
+    print("Triangle is called Isosceles.")
+else:
+    print("Triangle is called Scalene.")
